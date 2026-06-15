@@ -103,5 +103,5 @@ Below are screenshots showing the application states required for the White Belt
 ### 5. Stellar Explorer Verification
 *Shows the transaction successfully confirmed and recorded on the Stellar Testnet ledger via the Stellar block explorer.*
 
-![Stellar Explorer Verification](./docs/5_verified.png)
+![Stellar Explorer Verification](./docs/5_verified.png?v=2)
 
