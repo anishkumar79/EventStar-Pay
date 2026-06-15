@@ -105,7 +105,3 @@ Below are screenshots showing the application states required for the White Belt
 
 ![Stellar Explorer Verification](./docs/5_verified.png)
 
----
-
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
